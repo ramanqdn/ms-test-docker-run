@@ -10,7 +10,7 @@ public class MainController {
 	
 	@RequestMapping(value = "name", method = RequestMethod.GET)
 	String getName() {
-		return "Raman";
+		return "Ramandeep Singh";
 	}
 
 }
